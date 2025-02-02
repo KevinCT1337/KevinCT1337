@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @KevinCT1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Info about me!
 
-<!---
-KevinCT1337/KevinCT1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Basic Stuff
+
+My favorite color is 	`#RRGGBB`
+
+## More
+
+
+
+> [!WARNING]
+> Below is a pretty cute picture of a cat.
+
+![A curious cat](https://github.com/user-attachments/assets/1d9a19f1-6d81-4aa3-afb9-f9fed860e9c1)
