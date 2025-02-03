@@ -2,9 +2,10 @@
 
 ## Basic Stuff About Me
 
-My name is `Kevin Cox-Torrelio`, and I'm a student attending here, at [RVCC](https://www.raritanval.edu/) 🏫  
-I live in the lovely city of [Middlesex](https://maps.app.goo.gl/ZBcTo2JxV3xcFaKS8) 🗺️  
-I have 2 dogs and a cat, one dog is a [Labradoodle](https://en.wikipedia.org/wiki/Labradoodle), and the other is a [Shorkie](https://www.petmd.com/dog/breeds/shorkie). And well, my cat is a pretty generic grey house cat. 🐕🐈
+* My name is `Kevin Cox-Torrelio`, and I'm a student attending here, at [RVCC](https://www.raritanval.edu/) 🏫  
+* I live in the lovely city of [Middlesex](https://maps.app.goo.gl/ZBcTo2JxV3xcFaKS8) 🗺️  
+* I have 2 dogs and a cat, one dog is a [Labradoodle](https://en.wikipedia.org/wiki/Labradoodle), and the other is a [Shorkie](https://www.petmd.com/dog/breeds/shorkie). And well, my cat is a pretty generic grey house cat. 🐕🐈
+* I program my own games, and occasionally some simple scripts on the side for small projects, nothing too fancy 💻
 
 ## Goals for the Future
 
@@ -32,14 +33,13 @@ while true do
 end
 
 ```
+  
+Here's a pretty cool website for generating [ASCII art messages](https://texteditor.com/messages/)
 
 > [!WARNING]
 > Below is a pretty cute picture of a cat[^1].
 
 ![A curious cat](https://github.com/user-attachments/assets/1d9a19f1-6d81-4aa3-afb9-f9fed860e9c1)
-
-Link to the sample section: [Link Text](#more).
-
 
 
 [^1]:https://en.wikipedia.org/wiki/Cat
